@@ -243,6 +243,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48afb76625e1d8045bc22e2ac2409158, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Study
+  say: 
+  text: 0
+  a: 1
+  aa: 11
+  b: 0.1
+  c: 0.3
+  d: 0
 --- !u!1 &805028389
 GameObject:
   m_ObjectHideFlags: 0
@@ -618,6 +625,37 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+--- !u!1 &2125287766
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2125287767}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2125287767
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2125287766}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.35752, y: 0.65369, z: -0.14847}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -626,3 +664,4 @@ SceneRoots:
   - {fileID: 827671104}
   - {fileID: 729186768}
   - {fileID: 805028393}
+  - {fileID: 2125287767}

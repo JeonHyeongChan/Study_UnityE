@@ -3560,8 +3560,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\uACBD\uC77C\uC544\uCE74\uB370\uBBF8"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c86a57574d1cf934a8b0b5fc04725d08, type: 2}
-  m_sharedMaterial: {fileID: -4191737753636608808, guid: c86a57574d1cf934a8b0b5fc04725d08, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c72ffc985cc9e6f41938db87a8225e84, type: 2}
+  m_sharedMaterial: {fileID: -88046543607508968, guid: c72ffc985cc9e6f41938db87a8225e84, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

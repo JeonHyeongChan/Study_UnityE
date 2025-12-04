@@ -75,5 +75,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # 사용자 설정
-/[Aa]Assets/[Ee]xternal[Aa]ssets/.meta
-/[Aa]Assets/[Ee]xternal[Aa]ssets/*
+/[Aa]Assets/[Ee]xternal[Aa]ssets/
